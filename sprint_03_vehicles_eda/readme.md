@@ -5,13 +5,13 @@
 * model: model of the car
 * condition: used, new, else.
 * cylinders
-* fuel — gasoline, diesel, etc.
-* odometer — vehicle's mileage when posted
+* fuel: gasoline, diesel, etc.
+* odometer: vehicle's mileage when posted
 * transmission
 * paint_color
-* is_4wd — whether the car has 4 wheel drive (Boolean)
+* is_4wd: whether the car has 4 wheel drive (Boolean)
 * date_posted
-* days_listed — date removed
+* days_listed: date removed
 
 # Description
 
